@@ -1,0 +1,2 @@
+body{background-color:#f2dbb3;font-family:Arial,Helvetica,sans-serif}.App{flex-direction:column;align-items:center}.App,.todo{display:flex}.todo{justify-content:space-between;background-color:#ede5da;width:80%;height:80%;margin:40px 40px 0;padding:30px 60px;border-radius:50px;font-weight:600}.done{color:green}.inProgress{color:red}.todoList{display:flex;flex-direction:column;align-items:center;justify-content:center;background-color:#e8ad55;border-radius:50px}
+/*# sourceMappingURL=main.9ca987da.chunk.css.map */
